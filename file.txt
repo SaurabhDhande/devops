@@ -1,0 +1,7 @@
+File Manipulation:
+
+Write a script that creates a directory named "backup" in the user's home directory if it doesn't exist.
+Write a script that lists all files in a directory and counts the number of files.
+Text Processing:
+
+Write a script that searches for a specific word in a file and prints the lines containing that word.
